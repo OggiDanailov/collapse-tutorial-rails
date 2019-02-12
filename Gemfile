@@ -9,6 +9,7 @@ gem 'rails', '~> 5.2.2'
 gem 'pg', '>= 0.18', '< 2.0'
 # My added ones
 gem 'bootstrap-sass'
+gem 'bootstrap_form'
 gem 'devise'
 
 
