@@ -11,6 +11,12 @@ gem 'pg', '>= 0.18', '< 2.0'
 gem 'bootstrap-sass'
 gem 'bootstrap_form'
 gem 'devise'
+gem 'rspec-rails', '~> 3.6'
+gem 'factory_girl_rails'
+gem 'rails-controller-testing'
+gem 'headless'
+gem 'poltergeist'
+gem 'database_cleaner'
 
 
 gem 'puma', '~> 3.11'
