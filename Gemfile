@@ -17,6 +17,7 @@ gem 'rails-controller-testing'
 gem 'headless'
 gem 'poltergeist'
 gem 'database_cleaner'
+gem 'faker'
 
 
 gem 'puma', '~> 3.11'
